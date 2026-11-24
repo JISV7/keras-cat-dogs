@@ -2,7 +2,8 @@ Entregar URL de un reso de Github, dentro de ese repo, debe haber 2 carpetas.
 Una carpeta con todo el codigo, modelos, etc
 Una segunda carpeta donde esten las imagenes, dataset.
 
-Se debe ntrenar una maquina virtual de Google Colab para que pueda identificar, si la imagen que se adjunta es un perro o un gato, indicando el porcentaje de confianza/probabilidad de que sea el animal identificado.
+Se debe entrenar una maquina virtual de Google Colab para que pueda identificar, si la imagen que se adjunta es un perro o un gato, indicando el porcentaje de confianza/probabilidad de que sea el animal identificado.
+El grafico, para mostrar el porcentaje de probabilidad debe ser dibujado usando Matplotlib. Se van a ver dos graficos, uno al lado del otro.
 
 https://keras.io/examples/vision/image_classification_from_scratch/
 https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/image_classification_from_scratch.ipynb
