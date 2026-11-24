@@ -1,0 +1,10 @@
+# Dataset local y archivos temporales
+cats_dogs_dataset.zip
+small_dataset.zip
+small_dataset/
+keras-cat-dogs/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
